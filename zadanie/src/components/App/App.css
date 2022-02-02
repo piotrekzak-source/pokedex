@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: 'Rubik',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: aqua;
+}
+
+.App{
+    text-align: center;
+}
+
+h1 {
+   font-size: 57px; 
+}
